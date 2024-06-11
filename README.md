@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 Vocational training at the University of Bamberg
 - 🌱 Currently learning the concept of programming
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develcooking&layout=compact&hide_border=true" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=develcooking&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true" alt="Jaypee's github stats" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develcooking&layout=compact&hide_border=true&" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=develcooking&show_icons=true&include_all_commits=true&hide_border=true&hide_rank=true" alt="Jaypee's github stats" /></a> 
